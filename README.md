@@ -9,8 +9,8 @@ A basic Twitter/X.com clone built with Node.js, Express, and MongoDB.
    ```bash
    npm install express mongoose nodemon
 
-Start the Server
+2. **Start the Server**
 
-'''
-npx nodemon main.js
-'''
+ ```bash
+   npx nodemon main.js
+
